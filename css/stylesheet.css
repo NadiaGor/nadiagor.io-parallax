@@ -184,8 +184,10 @@ span.text-header  {
 	.text-header {
 	font-size: 18px;
 	margin: 20px;
-	padding: 10px;
 }
+	span.text-header {
+	padding: 10px;
+	}
 
 }
 
